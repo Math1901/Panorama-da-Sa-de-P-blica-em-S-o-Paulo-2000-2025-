@@ -2,7 +2,7 @@
 
 Dashboard interativo em Power BI que investiga a relação entre a cobertura de atenção básica e a mortalidade geral nos 645 municípios do estado de São Paulo, ao longo de 25 anos.
 
-![Página 1 - Visão Geral](imagens_dashboard/pagina1_visao_geral.png)
+![Página 1 - Visão Geral](pagina1_visao_geral.png)
 
 ## Pergunta de pesquisa
 
@@ -30,12 +30,12 @@ Todos os dados são públicos, extraídos via TABNET:
 KPIs gerais do estado, mapa coroplético de mortalidade por município (645 municípios, malha geográfica em TopoJSON/IBGE) e destaques dinâmicos do município com maior mortalidade e melhor cobertura de atenção básica no ano selecionado.
 
 ### Página 2 — Evolução Temporal
-![Página 2 - Evolução Temporal](imagens_dashboard/pagina2_evolucao_temporal.png)
+![Página 2 - Evolução Temporal](pagina2_evolucao_temporal.png)
 
 Como mortalidade, % ICSAB e população evoluíram entre 2000 e 2025.
 
 ### Página 3 — Correlação
-![Página 3 - Correlação](imagens_dashboard/pagina3_correlacao.png)
+![Página 3 - Correlação](pagina3_correlacao.png)
 
 Dispersão entre % ICSAB e taxa de mortalidade por município, com ranking dos 10 municípios com melhor e pior indicador.
 
