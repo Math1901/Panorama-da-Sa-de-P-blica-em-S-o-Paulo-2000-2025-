@@ -70,7 +70,7 @@ Dispersão entre % ICSAB e taxa de mortalidade por município, com ranking dos 1
 
 Projeto desenvolvido como parte de portfólio em análise de dados.
 
-[LinkedIn](#) · [GitHub](#)
+[[LinkedIn](https://www.linkedin.com/in/matheus-felipe-luiz-550a321a0/)] · [GitHub](https://github.com/Math1901)
 
 ---
 
