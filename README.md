@@ -2,7 +2,7 @@
 
 Dashboard interativo em Power BI que investiga a relação entre a cobertura de atenção básica e a mortalidade geral nos 645 municípios do estado de São Paulo, ao longo de 25 anos.
 
-![Página 1 - Visão Geral](imagens_dashboard/pagina1_visao_geral.png)
+![Página 1 - Visão Geral](C:\Users\mf_lu\Dropbox\PC\Desktop\dashboard-saude-publica-sp\imagens_dashboard)
 
 ## Pergunta de pesquisa
 
